@@ -1,2 +1,3 @@
 *.python linguist-detectable=true
 *.matplotlib linguist-detectable=true
+*.seaborn linguist-detectable=true
