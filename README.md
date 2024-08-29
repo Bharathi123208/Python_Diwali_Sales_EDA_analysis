@@ -82,7 +82,7 @@ This analysis provides valuable insights into customer behavior and product perf
 # How to Run
 1) Clone the repository:
 
-git clone https://github.com/yourusername/diwali-sales-analysis.git
+git clone https://github.com/Bharathi123208/diwali-sales-analysis.git
 cd diwali-sales-analysis
 
 2) Install the required dependencies:
